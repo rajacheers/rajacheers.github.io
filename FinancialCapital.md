@@ -1,7 +1,17 @@
 # Financial Capital
 
+- [Financial Capital](#financial-capital)
+  - [Basics](#basics)
+  - [Asset types](#asset-types)
+  - [Advice given to others](#advice-given-to-others)
+  - [Own Goal and Strategy](#own-goal-and-strategy)
+  - [Advice from Others](#advice-from-others)
+
+
 Fixed portfolio and rebalance
+
 ## Basics
+
 - Dollar cost average
 - Portfolio management
 - Asset allocation
@@ -10,7 +20,9 @@ Fixed portfolio and rebalance
   - Get all assets in one page
   - Have a goal
   - Track
+
 ## Asset types
+
 - Equity
   - REIT
   - Index Fund / ETF
@@ -60,11 +72,14 @@ Fixed portfolio and rebalance
   - Royalty
 
 ## Advice given to others
+
 - I think that summary is -> diversification preserves wealth, concentration creates wealth. So diversify using a good portfolio (stocks, bonds, real assets, cash across geographies). But do take risks with a small amount.
 First common problem is , People ignore  inflation bonds + developed markets + gold + agriculture + real estate in general during diversification.
 - Second  is people don't know how to take risks or they never do.
 - Third problem is not rebalancing regularly and at the right times.
+
 ## Own Goal and Strategy
+
 - Own house and monthly income
   - Lower middle - 100k house and $1.5k / month (900k@2.5%)
   - Middle - 1mm house and $5k /month (2.5mm@2.5%)
@@ -78,7 +93,10 @@ First common problem is , People ignore  inflation bonds + developed markets + g
   - Bond	            38
   - Real estate	15
   - Gamble          5
+
+
 ## Advice from Others
+
 - Taleb
   - Black Swan - Barbell Strategy
 - Thaler
