@@ -85,15 +85,16 @@ First common problem is , People ignore  inflation bonds + developed markets + g
   - Middle - 1mm house and $5k /month (2.5mm@2.5%)
   - Upper middle - 3mm house and $15k / month (7.5mm@2.5%)
   - Rich - 10mm house and $50k / month (50mm@2.5%)
-- Example
-  - Cash	           5
-  - Stock	           30
-  - Crypto	            4
-  - Commodity	 8
-  - Bond	            38
-  - Real estate	15
-  - Gamble          5
 
+    | Asset       | Allocation    |
+    | :------------- | :----------: |
+    |  Cash | 5   |
+    |  Crypto | 4   |
+    |  Stock | 30 |
+    |  Bond | 38 |
+    |  Commodity | 8   |
+    |  Real estate | 15   |
+    |  Gamble | 5   |
 
 ## Advice from Others
 
