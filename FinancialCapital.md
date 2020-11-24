@@ -6,77 +6,68 @@
   - [Advice given to others](#advice-given-to-others)
   - [Own Goal and Strategy](#own-goal-and-strategy)
   - [Advice from Others](#advice-from-others)
-
+  - [Comparisions](#comparisions)
+    - [Renting Vs Mortgage](#renting-vs-mortgage)
+    - [Self employment Vs Salaried](#self-employment-vs-salaried)
+  - [Savings](#savings)
+  - [Writeup](#writeup)
 
 Fixed portfolio and rebalance
 
 ## Basics
 
-- Dollar cost average
-- Portfolio management
-- Asset allocation
-- Economics: Money, GDP, Credit, Foreign Exchange, Market
 - Steps
   - Get all assets in one page
   - Have a goal
   - Track
+  - Spend less and save more
+  - Automate
+  - Invest
+- Investment basics
+  - Dollar cost average
+  - Less fees
+  - Allocate asset and manage portfolio
+- Economics: Money, GDP, Credit, Foreign Exchange, Market
 
 ## Asset types
 
 - Equity
-  - REIT
-  - Index Fund / ETF
-  - Mutual Fund
-  - Startups
   - Stocks
-  - Hedge fund
+  - Index Fund / ETF / Mutual Fund
+  - Startups, Hedge Fund
 - Bonds
-  - Government
-  - Corporate
-  - TIPS
+  - Government, Corporate, TIPS, Grades
 - Crypto
+  - Bitcoin, Ether, Altcoins
 - Cash
-- Real Estate
+  - High yield
+- Real Estate, REIT
 - Commodities
-  - Gold, Silver
-  - Agri
-  - Oil
+  - Gold, Silver, Agri, Oil
 - Other forms
-  - Betting
-  - Lending
-  - Chit
+  - Betting, Lending, Chit
 - Other Dimensions
+  - Risk, Bias
   - Sectors
     - Tech, Health Care, Utilities, Banking, Infrastructure
   - Geography
     - Asia, Europe, North America, Latin America, Africa
     - Developed, Emerging
-  - Currency
-  - Liquidity
-  - Leverage
-  - Hedged
-  - Options
-  - Futures
-  - Time
-  - Fees
-  - Tax
-  - Debt
+  - Currency, Inflation, Government
+  - Liquidity, Time, Leverage, Fees, Tax
+  - Hedged, Options, Futures, Insurance
   - Income/Dividend/Yield
-  - Insurance
-  - Expense, Spending, Budgeting, Saving
-  - Inflation
-  - Government
+  - Expense, Spending, Budgeting, Saving, Debt
+
 - Incomes
-  - Salary
-  - Rental
-  - Royalty
+  - Salary, Rental, Royalty
 
 ## Advice given to others
 
 - I think that summary is -> diversification preserves wealth, concentration creates wealth. So diversify using a good portfolio (stocks, bonds, real assets, cash across geographies). But do take risks with a small amount.
-First common problem is , People ignore  inflation bonds + developed markets + gold + agriculture + real estate in general during diversification.
-- Second  is people don't know how to take risks or they never do.
-- Third problem is not rebalancing regularly and at the right times.
+  - First common problem is , People ignore  inflation bonds + developed markets + gold + agriculture + real estate in general during diversification.
+  - Second  is people don't know how to take risks or they never do.
+  - Third problem is not rebalancing regularly and at the right times.
 
 ## Own Goal and Strategy
 
@@ -103,6 +94,7 @@ First common problem is , People ignore  inflation bonds + developed markets + g
 - Thaler
   - Opt for a mix of investments, mostly stocks; only check your portfolio about once a year; and don’t follow the news.
   - A good rule to remember is that people who are quite risk averse will take big risks if they are threatened with big losses and have a chance to break even,
+  - Nobel price money doenst have a seperate name
 - Swenson
   - Move to alternative asset classes
   - Identify top quartile managers
@@ -121,3 +113,56 @@ First common problem is , People ignore  inflation bonds + developed markets + g
   - Earning more is better than saving more
 - Buffet
   - Price is what you pay, value is what you get
+- Robert Kiyosaki
+  - Start your own business, make a cash flow quadrant
+- Dave Ramsay
+  - No debt and have emergency fund
+- David Bach - Automatic Millionaire; Next door Millionaire
+  - Frugality and autamatic payment
+
+## Comparisions
+
+### Renting Vs Mortgage
+
+- If you stay, no brainer
+- Permanent Residency
+
+### Self employment Vs Salaried
+
+- Risk
+- Other Benefits
+- Visa
+
+## Savings
+
+- Shop around
+
+## Writeup
+
+An approch for making money from money
+
+- Most people here make money in top percentile
+- Hence able to save money
+- Too many options and varied greed and beileved risk appetite
+- No one really talks about how to invest on monthly savings. Mostly about lumpsum money
+- Strategy is this
+- Allocate money
+- Rebalance every month
+- Diversification vs concentration
+- How much to allocate?
+  - So much for risk appetite
+  - Age
+  - Self view of world
+  - Take other people advice
+- When to rebalance?
+  - Every month
+  - Or wait for % down one particular area
+- Take insurance
+  - Options for low probability events
+- How to gamble
+  - Buy individual stocks
+    - Tech stocks - $5B market cap
+    - Concentrate
+    - Opportunity
+    - Startups
+  - Trade options
